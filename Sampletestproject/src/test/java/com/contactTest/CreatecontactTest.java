@@ -9,9 +9,9 @@ public class CreatecontactTest {
 		System.out.println("created DemoTest");
 	}
 	@Test
-	public void OrgTest()
+	public void OrgcreateTest()
 	{
-		System.out.println(" Modified OrganizationTest");
+		System.out.println(" Modified OrganizationcreateTest");
 		
 	}
 	
