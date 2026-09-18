@@ -12,6 +12,11 @@ public class CreatecontactTest {
 	public void OrgTest()
 	{
 		System.out.println("creted OrganizationTest");
+		
 	}
-
+	@Test
+	public void ContactTest()
+	{
+		System.out.println("creted ContactTest");
+	}
 }
