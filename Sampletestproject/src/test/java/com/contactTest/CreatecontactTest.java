@@ -11,12 +11,8 @@ public class CreatecontactTest {
 	@Test
 	public void OrgTest()
 	{
-		System.out.println("creted OrganizationTest");
+		System.out.println("creted modified OrganizationTest");
 		
 	}
-	@Test
-	public void ContactTest()
-	{
-		System.out.println("creted ContactTest");
-	}
+	
 }
