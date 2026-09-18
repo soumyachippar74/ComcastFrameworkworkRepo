@@ -13,5 +13,10 @@ public class CreatecontactTest {
 	{
 		System.out.println("creted OrganizationTest");
 	}
+	@Test
+	public void conTest()
+	{
+		System.out.println("creted conTest");
+	}
 
-}
+} 
