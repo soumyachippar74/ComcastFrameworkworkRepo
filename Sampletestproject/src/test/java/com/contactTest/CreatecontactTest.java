@@ -16,7 +16,7 @@ public class CreatecontactTest {
 	@Test
 	public void conTest()
 	{
-		System.out.println("creted conTest");
+		System.out.println("creted conTest add");
 	}
 
 } 
