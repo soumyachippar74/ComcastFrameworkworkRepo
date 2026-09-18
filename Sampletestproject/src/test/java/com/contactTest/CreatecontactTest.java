@@ -8,5 +8,10 @@ public class CreatecontactTest {
 	{
 		System.out.println("creted CreatecontactTest");
 	}
+	@Test
+	public void OrgTest()
+	{
+		System.out.println("creted OrganizationTest");
+	}
 
 }
