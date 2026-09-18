@@ -6,17 +6,14 @@ public class CreatecontactTest {
 	@Test
 	public void sampleTest()
 	{
-		System.out.println("creted CreatecontactTest");
+		System.out.println(" createdcontactTest-1");
 	}
 	@Test
 	public void OrgTest()
 	{
-		System.out.println("creted OrganizationTest");
-	}
-	@Test
-	public void conTest()
-	{
-		System.out.println("creted conTest add");
+		System.out.println(" modified OrganizationTest");
+		
 	}
 
-} 
+	
+}
